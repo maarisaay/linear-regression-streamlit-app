@@ -5,6 +5,9 @@ Projekt obejmuje implementację modelu regresji liniowej służącego do przewid
 
 Dodatkowo zawiera aplikację webową stworzoną w Streamlit, która umożliwia korzystanie z modelu.
 
+## Streamlit
+https://linear-regression-app-app-ej5rournkfbt3m3g8ea4ym.streamlit.app/
+
 ## Wymagania
 ```bash
 pip install -r requirements.txt
